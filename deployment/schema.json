@@ -898,6 +898,9 @@
     "parenExpression.spaceAround": {
       "$ref": "#/definitions/spaceAround"
     },
+    "catchStatement.spaceAround": {
+      "$ref": "#/definitions/spaceAround"
+    },
     "spaceSurroundingProperties": {
       "$ref": "#/definitions/spaceSurroundingProperties"
     },
